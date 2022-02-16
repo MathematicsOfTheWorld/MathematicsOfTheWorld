@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MathematicsOfTheWorld
-- 👀 I’m interested in coding and processes
-- 🌱 I’m currently learning Github
+- 👋 Hi, I’m @MathematicsOfTheWorld.
+- 👀 I’m interested in coding and processes.
+- 🌱 I’m currently learning Github.
 - 💞️ I’m looking to collaborate on tbd.
 - 📫 How to reach me @MathematicsOfTheWorld on Github.
 
